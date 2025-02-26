@@ -1,0 +1,12 @@
+{
+    "name": "teste-automatizado",
+    "version": "1.0.0",
+    "description": "Teste com Cypress",
+    "scripts": {
+        "test": "cypress run",
+        "cypress:open": "cypress open"
+    },
+    "devDependencies": {
+        "cypress": "^14.1.0"
+    }
+}
