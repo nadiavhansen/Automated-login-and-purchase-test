@@ -4,8 +4,7 @@ Este projeto traz um teste E2E de login e a realização de uma compra na plataf
 
 ## Installation
 
-Para a instalação do Cypress, você precisa ter instalado o node no seu computador. [pip](https://pip.pypa.io/en/stable/) 
-
+Para a instalação do Cypress, você precisa ter instalado o node no seu computador.
 ```bash
 node -v
 npm -v
